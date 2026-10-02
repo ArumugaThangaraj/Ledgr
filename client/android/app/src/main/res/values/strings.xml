@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Ledgr</string>
+    <string name="title_activity_main">Ledgr</string>
+    <string name="package_name">com.thomas.ledgr</string>
+    <string name="custom_url_scheme">com.thomas.ledgr</string>
+</resources>
