@@ -11,8 +11,11 @@ export default function App() {
   }, []);
 
   return (
-    <div className="min-h-screen flex items-center justify-center bg-black text-white">
-      <p className="text-lg font-medium">{status}</p>
-    </div>
+    <>
+      <div className="min-h-screen flex items-center justify-center bg-black text-white">
+        <p className="text-lg font-medium">{status}</p>
+      </div>
+    </>
+
   );
 }
